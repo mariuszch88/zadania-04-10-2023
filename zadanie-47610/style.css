@@ -1,0 +1,28 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    color: blue;
+    background-color: yellow;
+}
+
+p {
+    color: aqua;
+    background-color: black;
+}
+
+h2 {
+    color: green;
+    background-color: bisque;
+}
+
+.p2 {
+    color: greenyellow;
+    background-color: rgba(0, 0, 0, 0.247);
+}
+
+ol {
+    color: chocolate;
+    background-color: white;
+}
