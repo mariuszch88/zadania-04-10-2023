@@ -2,32 +2,24 @@ body {
     background-color: #f5f5dd;
 }
 
-
-
-.one {
+.all {
     height: 100px;
     width: 100px;
-    background-color: rgba(0, 0, 0, 0.900);
     margin: 10px 60px;
+}
+
+.one {
+    background-color: rgba(0, 0, 0, 0.900);
 }
 
 .two {
-    height: 100px;
-    width: 100px;
     background-color: rgba(0, 0, 0, 0.700);
-    margin: 10px 60px;
 }
 
 .three {
-    height: 100px;
-    width: 100px;
     background-color: rgba(0, 0, 0, 0.400);
-    margin: 10px 60px;
 }
 
 .four {
-    height: 100px;
-    width: 100px;
     background-color: rgba(0, 0, 0, 0.200);
-    margin: 10px 60px;
 }
