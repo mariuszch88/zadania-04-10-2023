@@ -1,11 +1,16 @@
+h1+h3 {
+    color: rgb(4, 37, 250);
+}
+
+
 h1 {
     background-color: gold;
 }
 
 h3 {
     background-color: orange;
-    color: rgb(4, 37, 250);
 }
+
 
 p {
     color: rgb(248, 2, 96);
